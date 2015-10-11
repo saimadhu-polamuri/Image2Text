@@ -1,6 +1,6 @@
 # Image2Text
 
-### Steps to follow to get text from give image
+### Steps to follow to get text from given image file
 
 * Go to pytesser folder
 * Open image2text.py file in your favorite editer
@@ -20,22 +20,23 @@
 
 ### Result
 
-*********Output text*********
-12 pt
-Amai Amazmg‘y few dwscomeques provwde jukeboxes
-Courier: Amazingly few discotheques provide jukeboxes.
+ *********Output text*********
 
-Times Amazingly few discotheques provide Jukeboxes
+ 12 pt
+ Amai Amazmg‘y few dwscomeques provwde jukeboxes
+ Courier: Amazingly few discotheques provide jukeboxes.
 
-24 pt:
+ Times Amazingly few discotheques provide Jukeboxes
 
-Arial: Amazingly few discotheques
-provide jukeboxes.
+ 24 pt:
 
-Courier: Amazingly few
-discotheques provide
+ Arial: Amazingly few discotheques
+ provide jukeboxes.
 
-jukeboxes .
+ Courier: Amazingly few
+ discotheques provide
+
+ jukeboxes .
 
 Times: Amazingly few discotheques provide
 jukeboxes.
